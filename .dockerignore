@@ -1,0 +1,14 @@
+**/.git
+**/.idea
+**/.vscode
+
+# Frontend
+Frontend/node_modules
+Frontend/dist
+
+# Backend
+Backend/target
+
+# OS/editor noise
+**/*.log
+**/Thumbs.db

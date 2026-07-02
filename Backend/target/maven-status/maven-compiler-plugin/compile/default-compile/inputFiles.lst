@@ -1,0 +1,16 @@
+D:\project\CarDekho\Backend\src\main\java\com\cardekho\backend\BackendApplication.java
+D:\project\CarDekho\Backend\src\main\java\com\cardekho\backend\config\WebConfig.java
+D:\project\CarDekho\Backend\src\main\java\com\cardekho\backend\controller\CarController.java
+D:\project\CarDekho\Backend\src\main\java\com\cardekho\backend\controller\RecommendationController.java
+D:\project\CarDekho\Backend\src\main\java\com\cardekho\backend\model\BuyerProfile.java
+D:\project\CarDekho\Backend\src\main\java\com\cardekho\backend\model\Car.java
+D:\project\CarDekho\Backend\src\main\java\com\cardekho\backend\model\ExplanationDetail.java
+D:\project\CarDekho\Backend\src\main\java\com\cardekho\backend\model\RankedCar.java
+D:\project\CarDekho\Backend\src\main\java\com\cardekho\backend\service\CarDataService.java
+D:\project\CarDekho\Backend\src\main\java\com\cardekho\backend\service\ExplainabilityService.java
+D:\project\CarDekho\Backend\src\main\java\com\cardekho\backend\service\FilterService.java
+D:\project\CarDekho\Backend\src\main\java\com\cardekho\backend\service\NormalizationService.java
+D:\project\CarDekho\Backend\src\main\java\com\cardekho\backend\service\PreferenceParserService.java
+D:\project\CarDekho\Backend\src\main\java\com\cardekho\backend\service\SemanticSimilarityService.java
+D:\project\CarDekho\Backend\src\main\java\com\cardekho\backend\service\TopsisService.java
+D:\project\CarDekho\Backend\src\main\java\com\cardekho\backend\service\WeightGeneratorService.java

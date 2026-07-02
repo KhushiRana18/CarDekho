@@ -1,0 +1,16 @@
+com\cardekho\backend\BackendApplication.class
+com\cardekho\backend\service\NormalizationService.class
+com\cardekho\backend\service\FilterService.class
+com\cardekho\backend\model\Car.class
+com\cardekho\backend\service\ExplainabilityService.class
+com\cardekho\backend\model\ExplanationDetail.class
+com\cardekho\backend\service\TopsisService.class
+com\cardekho\backend\controller\CarController.class
+com\cardekho\backend\service\SemanticSimilarityService.class
+com\cardekho\backend\service\WeightGeneratorService.class
+com\cardekho\backend\model\BuyerProfile.class
+com\cardekho\backend\service\PreferenceParserService.class
+com\cardekho\backend\controller\RecommendationController.class
+com\cardekho\backend\model\RankedCar.class
+com\cardekho\backend\config\WebConfig.class
+com\cardekho\backend\service\CarDataService.class
